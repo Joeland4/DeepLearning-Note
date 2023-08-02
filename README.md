@@ -4,7 +4,7 @@
 【Scaler】：MinMax还是Standard？Standard能够避免异常值带来影响。详见：https://www.zhihu.com/question/20467170/answer/839255695  
 【Norm】：BatchNorm,layerNorm,InstanceNorm,groupNorm 深层网络训练的过程中，由于网络中参数变化而引起内部结点数据分布发生变化的这一过程被称作Internal  Covariate Shift。  详见：https://zhuanlan.zhihu.com/p/87117010 | https://zhuanlan.zhihu.com/p/152232203  
 【Activation function】：增加模型非线性详见：https://zhuanlan.zhihu.com/p/172254089  
-【Learning rate】：如何选择学习率。详见：https://zhuanlan.zhihu.com/p/390261440
-【Optimizer】：GD,SGD,Adam,lookahead,Lion。详见：https://zhuanlan.zhihu.com/p/614133329
-【Position embedding】：Sinusoidal,RoPE。详见：https://kexue.fm/archives/8265
+【Learning rate】：如何选择学习率。详见：https://zhuanlan.zhihu.com/p/390261440  
+【Optimizer】：GD,SGD,Adam,lookahead,Lion。详见：https://zhuanlan.zhihu.com/p/614133329  
+【Position embedding】：Sinusoidal,RoPE。详见：https://kexue.fm/archives/8265  
 
